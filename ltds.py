@@ -1,0 +1,9 @@
+#9.
+d={}
+print(d)
+l=[]
+print(l)
+s=set()
+print(s)
+t=()
+print(t)
